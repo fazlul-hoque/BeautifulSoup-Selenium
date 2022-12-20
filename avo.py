@@ -1,5 +1,7 @@
 
-
+#Author: Md.Fazlul Hoque
+#Source: Stackoverflow and answered by the author
+#Source link: https://stackoverflow.com/questions/73394922/give-me-attribute-error-using-beautifulsoup
 
 
 from bs4 import BeautifulSoup
